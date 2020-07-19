@@ -1,6 +1,6 @@
 ### Hola gente, soy Seba 👋
 ```C 
-char ** TECNOLOGIAS = ["C/C++","Javascript","Python","Arduino","Stm32","Esp32","Raspberry Pi","Development Full Stack"];
+char ** TECNOLOGIAS = ["C/C++","Javascript","Python","Arduino","Stm32","Esp32","Raspberry Pi","Web Full Stack"];
 ```
 Soy programador de sistemas embebidos dedicados al control y gestion de recursos y procesos, productivos o interactivos.
 <!--
