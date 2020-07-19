@@ -1,8 +1,11 @@
 ### Hola gente, soy Seba 👋
-```C 
-char ** TECNOLOGIAS = ["C/C++","Javascript","Python","Arduino","Stm32","Esp32","Raspberry Pi","Web Full Stack"];
+```JS 
+var Seba = {
+TECNOLOGIAS : ["C/C++","Javascript","Python","Arduino","Stm32","Esp32","Raspberry Pi","Web Full Stack"],
+};
 ```
 Soy programador de sistemas embebidos dedicados al control y gestion de recursos y procesos, productivos o interactivos.
+
 <!--
 **seba-wetzel/seba-wetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
