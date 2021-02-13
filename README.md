@@ -1,7 +1,8 @@
 ### Hola gente, soy Seba 👋
 ```JS 
 var Seba = {
-TECNOLOGIAS : ["C/C++","Javascript","Python","Arduino","Stm32","Esp32","Raspberry Pi","Web Full Stack en formacion ;)"],
+TECNOLOGIAS : ["Javascript","Web Full Stack","React","Python",
+"Arduino","Stm32","C/C++","Esp32","Raspberry Pi"],
 };
 ```
 Soy programador de sistemas embebidos dedicados al control y gestion de recursos y procesos, productivos o interactivos.
