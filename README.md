@@ -4,8 +4,8 @@ var Seba = {
 TECNOLOGIAS : ["Javascript","Web Full Stack","React","Python",
 "Arduino","Stm32","C/C++","Esp32","Raspberry Pi"],
 };
-```
-Soy programador de sistemas embebidos dedicados al control y gestion de recursos y procesos, productivos o interactivos.
+``
+Soy desarrolador web fullstack en js, ademas cuento con experiencia en desarrollos de sistemas embebidos dedicados al control y gestion de recursos y procesos, productivos e interactivos.
 
 <!--
 **seba-wetzel/seba-wetzel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
