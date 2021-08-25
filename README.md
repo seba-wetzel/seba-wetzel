@@ -1,7 +1,7 @@
 ### Hola gente, soy Seba 👋
 ```JS 
 var Seba = {
-TECNOLOGIAS : ["Javascript","Web Full Stack","React","Python",
+TECNOLOGIAS : ["Javascript","Web Full Stack","React","Vue.js","Python","Laravel",
 "Arduino","Stm32","C/C++","Esp32","Raspberry Pi"],
 };
 ```
